@@ -168,4 +168,4 @@ for game in range(6) :
 			s = .25
 	print("\n")		
 
-print("Good game! You wore my hard drive out! Here is your score. GOOD-BYE!",score)		
+print("Good game! You wore my hard drive out! Here is your score:", score, ". GOOD-BYE!")		
