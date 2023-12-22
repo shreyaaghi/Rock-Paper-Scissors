@@ -1,5 +1,5 @@
-Scroll up and click on any of the files to view my code for this project
-------------------------------------------------------------------------
+To view my code, use the left hand bar and select the main.py file
+------------------------------------------------------------------
 Game: Rock Paper Scissors
 
 Language: Python
